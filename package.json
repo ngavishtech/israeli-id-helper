@@ -1,11 +1,24 @@
 {
   "name": "israeli-id-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple helper which creates and validates a string according to israeli id rules.",
   "main": "index.js",
   "scripts": {
     "test": "mocha tests"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngavishtech/israeli-id-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngavishtech/israeli-id-helper/issues"
+  },
+  "homepage": "https://github.com/ngavishtech/israeli-id-helper#readme",
+  "keywords": [
+    "id",
+    "israeli",
+    "israeli-id"
+  ],
   "author": "Nir Gavish",
   "license": "MIT",
   "devDependencies": {
