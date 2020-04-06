@@ -1,6 +1,6 @@
 {
   "name": "israeli-id-helper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple helper which creates and validates a string according to israeli id rules.",
   "main": "index.js",
   "scripts": {
