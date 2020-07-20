@@ -1,6 +1,6 @@
 {
   "name": "israeli-id-helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple helper which creates and validates a string according to israeli id rules.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1"
+    "mocha": "^8.0.1"
   }
 }
